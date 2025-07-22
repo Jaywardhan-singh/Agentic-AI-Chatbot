@@ -26,8 +26,8 @@ This project combines a lightweight **frontend dashboard** (HTML, CSS, JS) with 
 ## 📂 Project Structure
 <pre>
 ├── index.html # Main dashboard UI 
-├── styles.css # Stylesheet 
-├── script.js # JS logic for frontend interactions 
+├── script.css # Stylesheet 
+├── index.js # JS logic for frontend interactions 
 ├── README.md # Project description
 </pre>
 
