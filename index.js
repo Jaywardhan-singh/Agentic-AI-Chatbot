@@ -1,8 +1,8 @@
 const LYZR_API_ENDPOINT = 'https://agent-prod.studio.lyzr.ai/v3/inference/chat/';
-const LYZR_API_KEY = 'sk-default-8mMgqx3cvc0BQfZT4i0PVYWwN1i6MxmB';
-const USER_ID = 'jays2002singh@gmail.com';
-const AGENT_ID = '687f95ead1873d04f9c7aa85';
-const SESSION_ID = '687f95ead1873d04f9c7aa85-q3bbfwermq';
+const LYZR_API_KEY = 'YOUR LYZR AGENT API KEY';
+const USER_ID = 'YOUR USER ID OF LYZR AGENT';
+const AGENT_ID = 'YOUR AGENT ID OF LYZR AGENT';
+const SESSION_ID = 'YOUR SESSION ID OF LYZR AGENT';
 
 const chatWindow = document.getElementById('chat-window');
 const userInput = document.getElementById('user-input');
